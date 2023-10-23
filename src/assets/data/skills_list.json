@@ -1,0 +1,62 @@
+{
+  "Card1": [
+    [
+      "Java",
+      "https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"
+    ],
+    [
+      "C#",
+      "https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png"
+    ],
+    [
+      "JavaScript",
+      "https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"
+    ],
+    [
+      "HTML",
+      "https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"
+    ],
+    [
+      "CSS",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"
+    ]
+  ],
+  "Card2": [
+    [
+      "NodeJS",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"
+    ],
+    [
+      "React",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
+    ],
+    ["SpringBoot", "https://img.icons8.com/color/96/000000/spring-logo.png"],
+    [
+      "PostgreSQL",
+      "https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"
+    ],
+    [
+      "MySQL",
+      "https://upload.wikimedia.org/wikipedia/commons/7/7b/MySQL_Dolphin.jpg"
+    ]
+  ],
+  "Card3": [
+    [
+      "AWS",
+      "https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"
+    ],
+    [
+      ".NET",
+      "https://upload.wikimedia.org/wikipedia/commons/9/99/Dot-net-original-wordmark.svg"
+    ],
+    ["Hibernate", "https://hibernate.org/images/hibernate_icon_whitebkg.svg"],
+    [
+      "Selenium",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png"
+    ],
+    [
+      "GitHub",
+      "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"
+    ]
+  ]
+}
